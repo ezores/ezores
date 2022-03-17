@@ -26,7 +26,7 @@
   
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ezores&show_icons=true&theme=monokai&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezores&theme=monokai&hide_border=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=ezores&show_icons=true&theme=monokai&hide_border=true"/>
+    <center><img src="https://github-profile-trophy.vercel.app/?username=ezores&show_icons=true&theme=monokai&hide_border=true"/>
     
   </a>
 </p>
