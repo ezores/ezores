@@ -11,8 +11,8 @@
             </strong>
         </p>
         <ul>
-            <li>💿 My website can be found: <a class="website" href= "https://cyberengineer.tech/">Here</a></li>
-            <li>🌱 <b>I have successfully launched a student club: </b>(website coming up shortly)</li>
+            <li>💿 My website can be found: <a class="website" href= "https://cyberengineer.tech/">Here</a>.</li>
+            <li>🌱 <b>I have successfully launched a student club: </b>(website coming up shortly).</li>
             <li>🤔 <b>I’m currently open for</b>: A new job/internship opportunities, <a href="https://cyberengineer.tech/resume">My Resume</a>.</li>
             <li>💬 <b>Ask me about anything</b>: <a href="https://cyberengineer.tech/contact">Here</a>.</li>
             <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
