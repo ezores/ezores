@@ -46,4 +46,3 @@
   <img width="550" src="https://media.giphy.com/media/7Kw9EpLQb1BRAFKas6/giphy.gif">
 </p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ezores&show_icons=true&theme=monokai&hide_border=true)
