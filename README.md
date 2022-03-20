@@ -6,7 +6,7 @@
             <strong>
                 ⚡Electrical Engineering Student<br>
                 👨🏻‍💻Cyber Security Enthousiast<br>
-                👨🏻‍🔧Interested about Embedded Engineering and Automation and IoT systems<br>Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
+                👨🏻‍🔧Interested about Embedded Engineering, Automation Engineering and IoT Systems Engineering<br>Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
                 I am passionate to learn about FPGAs, Network, Automation, ML/AI, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
                 Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
             </strong>
@@ -23,7 +23,7 @@
     <div align=center>
 
 <p align="left">
-  <a href="https://cyberenginner.tech/">
+  <a href="https://cyberengineer.tech/">
   
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ezores&show_icons=true&theme=monokai&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezores&theme=monokai&hide_border=true" />
