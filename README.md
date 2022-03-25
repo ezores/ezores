@@ -12,6 +12,7 @@
             </strong>
         </p>
         <ul>
+            <li>📺 Community and Twitch moderator for: <a class="website" href= "https://www.youtube.com/c/CanDeger/">Lunizz - Can Deger</a>.</li>
             <li>💿 My website can be found: <a class="website" href= "https://cyberengineer.tech/">Here</a>.</li>
             <li>🌱 <b>I have successfully launched a student club: </b>(website coming up shortly).</li>
             <li>🤔 <b>I’m currently open for</b>: A new job/internship opportunities, <a href="https://cyberengineer.tech/resume">My Resume</a>.</li>
