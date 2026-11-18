@@ -1,51 +1,118 @@
-![](https://komarev.com/ghpvc/?username=ezores&style=for-the-badge&color=brightgreen)
-<h1 align="center">Hi 👋, I'm Cycle</h1>
-<div align=left>
-        <br>
-        <p>
-            <strong>
-                ⚡Electrical Engineering Student<br>
-                👨🏻‍💻Cyber Security Enthousiast<br>
-                👨🏻‍🔧Interested about Embedded Engineering, Automation Engineering and IoT Systems Engineering<br>Good in Algorithms, Data Structures, Database Systems, Object-Oriented Programming, Design Patterns, and Problem Solving skills.<br><br>
-                I am passionate to learn about FPGAs, Network, Automation, ML/AI, Linux, Virtualization, Cloud Computing, and DevOps.<br><br>
-                Detailed-oriented, responsible, and committed engineer, with a get-it-done, on-time, and high-quality product spirit. Self and quick learner, self-motivated, and social.
-            </strong>
-        </p>
-        <ul>
-            <li>📺 Community and Twitch moderator for: <a class="website" href= "https://www.youtube.com/c/CanDeger/">Lunizz - Can Deger</a>.</li>
-            <li>💿 My website can be found: <a class="website" href= "https://cyberengineer.tech/">Here</a>.</li>
-            <li>🌱 <b>I have successfully launched a student club: </b>(website coming up shortly).</li>
-            <li>🤔 <b>I’m currently open for</b>: A new job/internship opportunities, <a href="https://cyberengineer.tech/resume">My Resume</a>.</li>
-            <li>💬 <b>Ask me about anything</b>: <a href="https://cyberengineer.tech/contact">Here</a>.</li>
-            <li>📫 <b>How to reach me</b>: Catch and follow me from the above links 👆, in addition to follow me here.</li>
-            <li>😄 <b>Fun fact</b>: I love Cars and Bikes(🚗 | 🏍️), Coding(💻), Reading(📖), Traveling(🌍), and Martial Arts(🥊).</li>
-            <li>🤑 <b>Co-Founder at</b>: <a href="https://www.instagram.com/comets_emoto/">Comets emoto</a>.</li>
-        </ul>
-    </div>
-    <div align=center>
+<h1 align="center">Alp Alpdogan</h1>
 
-<p align="left">
-  <a href="https://cyberengineer.tech/">
-  
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=ezores&show_icons=true&theme=monokai&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=ezores&theme=monokai&hide_border=true" />
-    <center><img src="https://github-profile-trophy.vercel.app/?username=ezores&show_icons=true&theme=monokai&hide_border=true"/>
-    
-  </a>
-</p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lowlevelcycle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lowlevelcycle" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aalp-alpdogan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aalp-alpdogan" height="30" width="40" /></a>
-<a href="https://discord.gg/Cycle#0111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cycle#0111" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-
-<p><br><center><img width="200" id="logo" src="pictures/Cyber Engineer.png"/></p>
 <p align="center">
-  <img width="550" src="https://media.giphy.com/media/7Kw9EpLQb1BRAFKas6/giphy.gif">
+  <b>Infrastructure & Operational Technology Engineer</b><br/>
+  Industrial networks · OT cybersecurity · MES and SCADA software · Montréal, Canada
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/aalp-alpdogan/"><img src="https://img.shields.io/badge/LinkedIn-Alp_Alpdogan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://cyberengineer.tech/"><img src="https://img.shields.io/badge/Website-cyberengineer.tech-24292F?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+  <a href="https://github.com/ezores"><img src="https://img.shields.io/github/followers/ezores?style=for-the-badge&logo=github&label=Followers&color=24292F" alt="GitHub followers"/></a>
+</p>
+
+---
+
+## About
+
+I am an engineer working at the boundary between IT and the plant floor. My work covers industrial infrastructure, OT network architecture and security, and the software that connects production systems to the rest of the enterprise.
+
+I care about systems that are secure by design, deployable in a repeatable way, and safe to operate in environments where availability comes first.
+
+## Current Role
+
+**Infrastructure & OT, CEP at BBA Consultants** (Montréal, since December 2025)
+
+- Modernization of Manufacturing Execution Systems (MES)
+- Development of .NET services and REST APIs for industrial data integration
+- CI/CD pipelines and deployment practices for industrial software
+- OT network design and cybersecurity
+- Research on SCADA systems and their security
+
+## Areas of Focus
+
+| Area | Topics |
+|---|---|
+| OT Cybersecurity | IEC 62443, network segmentation, vulnerability management, secure remote access, asset visibility |
+| Industrial Systems | MES, SCADA, PLC and HMI integration, industrial protocols |
+| Software Engineering | .NET, REST APIs, backend services, databases, clean architecture |
+| DevOps & Deployment | CI/CD, containerization, Linux, infrastructure automation |
+| Embedded & Hardware | Microcontrollers, FPGAs, electric vehicle systems |
+
+## Education
+
+- **M.S. in Electrical and Computer Engineering**, University of Colorado Boulder (in progress, since 2026)
+- **B.Eng. in Electrical Engineering**, École de technologie supérieure (ÉTS), Montréal
+
+## Experience Highlights
+
+- **BBA Consultants**: Infrastructure & OT (2025 to present)
+- **Hatch**: Control and automation intern (2023)
+- **ComETS**: Co-founder of the ÉTS electric motorcycle student club
+- **IEEE**: Member
+
+## Technical Skills
+
+**Languages**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**Backend & Data**
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+
+**Industrial & Embedded**
+
+![SCADA](https://img.shields.io/badge/SCADA-37474F?style=flat-square)
+![MES](https://img.shields.io/badge/MES-37474F?style=flat-square)
+![OT Networks](https://img.shields.io/badge/OT_Networks-37474F?style=flat-square)
+![IEC 62443](https://img.shields.io/badge/IEC_62443-37474F?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-37474F?style=flat-square)
+
+## Selected Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Smart Locker System](https://github.com/ezores/smart_locker_project) | Locker management system with RFID access control, a reservation system and an admin dashboard | Python, Node.js, PostgreSQL |
+| [shell-go](https://github.com/ezores/shell-go) | Command-line shell built from scratch in Go through the CodeCrafters challenge | Go |
+| [MongoCPPproject](https://github.com/ezores/MongoCPPproject) | REST API work backed by MongoDB, written in C/C++ | C, MongoDB |
+| [iCalGenerator](https://github.com/ezores/iCalGenerator) | Extracts calendar data and generates iCal entries | C# |
+| [EANBarkod](https://github.com/ezores/EANBarkod) | EAN barcode generator | Python |
+
+## GitHub Activity
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ezores&show_icons=true&hide_border=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezores&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
+</p>
+
+## Writing
+
+I publish posts on OT security, industrial infrastructure and engineering practice on [LinkedIn](https://www.linkedin.com/in/aalp-alpdogan/).
+
+## Contact
+
+Open to discussions on OT cybersecurity, industrial infrastructure and software for operations. The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/aalp-alpdogan/).
